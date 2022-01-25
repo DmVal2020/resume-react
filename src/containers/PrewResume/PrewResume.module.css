@@ -1,0 +1,22 @@
+.PrewResume {
+    display: block;
+}
+.PrewResume h1 {
+    color: #F73;
+    margin-left: 10px;
+}
+.Title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #F73;
+    text-align: start;
+    border: 1px solid grey;
+    padding: 5px;
+    margin: 5px 0;
+}
+.SubTitle {
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+}
+
